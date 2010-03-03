@@ -236,6 +236,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -272,19 +274,17 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>080E96DDFE201D6D7F000001</string>
+								<string>29B97315FDCFA39411CA2CEA</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
+								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
-								<string>0060E989113DF3F0006244B4</string>
-								<string>0060E9C8113DF446006244B4</string>
 								<string>1CC0EA4004350EF90041110B</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>23</integer>
-									<integer>20</integer>
-									<integer>19</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -318,14 +318,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>YHOAuthTwitterEngine.m</string>
+								<string>xauth_test_app_Prefix.pch</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -333,11 +331,7 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>YHOAuthTwitterEngine.m</string>
-										<key>_historyCapacity</key>
-										<integer>0</integer>
-										<key>bookmark</key>
-										<string>0060E9DE113DF48E006244B4</string>
+										<string>xauth_test_app_Prefix.pch</string>
 										<key>history</key>
 										<array>
 											<string>0026477A0FEE233D00F590C4</string>
@@ -350,7 +344,6 @@
 											<string>0005651A1139E9C700985F40</string>
 											<string>0005651B1139E9C700985F40</string>
 											<string>0005651C1139E9C700985F40</string>
-											<string>00EC0D6F113DE2FF003179B7</string>
 											<string>00EC0D72113DE373003179B7</string>
 											<string>00EC0D78113DE3C6003179B7</string>
 											<string>00EC0D79113DE3C6003179B7</string>
@@ -362,7 +355,7 @@
 											<string>00EC0DB1113DECF9003179B7</string>
 											<string>00EC0DBF113DEF91003179B7</string>
 											<string>0060E9C9113DF446006244B4</string>
-											<string>0060E9CA113DF446006244B4</string>
+											<string>00C907CE113DF67800998C27</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -374,14 +367,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {785, 544}}</string>
+								<string>{{0, 0}, {785, 532}}</string>
 								<key>RubberWindowFrame</key>
 								<string>207 359 1223 819 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>544pt</string>
+							<string>532pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -394,14 +387,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 549}, {785, 229}}</string>
+								<string>{{0, 537}, {785, 241}}</string>
 								<key>RubberWindowFrame</key>
 								<string>207 359 1223 819 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>229pt</string>
+							<string>241pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -420,9 +413,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>0060E9CC113DF446006244B4</string>
+				<string>00510146113DF686000540E8</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>0060E9CD113DF446006244B4</string>
+				<string>00510147113DF686000540E8</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -558,10 +551,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>0060E9DA113DF454006244B4</string>
-		<string>0060E9DB113DF454006244B4</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>002646050FEE033C00F590C4</string>
 		<string>/Users/iac/dev/xAuth_ObjC_Test_App/xauth_test_app.xcodeproj</string>
 	</array>
@@ -604,8 +593,6 @@
 							<string>480pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -645,7 +632,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>002646050FEE033C00F590C4</string>
-				<string>0060E9CE113DF446006244B4</string>
+				<string>00510148113DF686000540E8</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -656,7 +643,7 @@
 			<key>WindowToolGUID</key>
 			<string>002646050FEE033C00F590C4</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -765,13 +752,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>0060E9D2113DF454006244B4</string>
+				<string>00C907BC113DF5A100998C27</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>0060E9D3113DF454006244B4</string>
-				<string>0060E9D4113DF454006244B4</string>
-				<string>0060E9D5113DF454006244B4</string>
-				<string>0060E9D6113DF454006244B4</string>
-				<string>0060E9D7113DF454006244B4</string>
+				<string>00C907BD113DF5A100998C27</string>
+				<string>00C907BE113DF5A100998C27</string>
+				<string>00C907BF113DF5A100998C27</string>
+				<string>00C907C0113DF5A100998C27</string>
+				<string>00C907C1113DF5A100998C27</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -925,7 +912,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>0060E9D8113DF454006244B4</string>
+				<string>00C907C2113DF5A100998C27</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
