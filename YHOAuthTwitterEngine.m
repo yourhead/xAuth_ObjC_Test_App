@@ -13,9 +13,9 @@
 
 #import "YHKeychainController.h"
 
-#import <OAuthConsumer/OAConsumer.h>
-#import <OAuthConsumer/OAMutableURLRequest.h>
-#import <OAuthConsumer/OADataFetcher.h>
+#import "OAConsumer.h"
+#import "OAMutableURLRequest.h"
+#import "OADataFetcher.h"
 
 #import "YHOAuthTwitterEngine.h"
 
@@ -34,6 +34,9 @@
 // Twitter app registration page:
 //
 // http://twitter.com/oauth_clients/new
+//
+// See the readme file for more info on xAuth permission
+//
 // 
 // Your info should look like this, but different (these are not valid keys).
 #define kOAuthConsumerKey				@"WGMqSPuYgphhTXRTwp14XQ"
